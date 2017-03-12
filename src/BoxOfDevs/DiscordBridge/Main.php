@@ -1,6 +1,6 @@
 <?php
 
-Namespace BoxOfDevs/DiscordBridge;
+namespace BoxOfDevs/DiscordBridge;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\Listener;
